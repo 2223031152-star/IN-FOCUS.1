@@ -1,6 +1,4 @@
-# IN-FOCUS
-
-## Bienvenida
+# IN-FOCUS 🧠
 
 Bienvenido al repositorio oficial de **IN-FOCUS**, una aplicación diseñada para mejorar tu capacidad de atención selectiva a través de un entrenamiento cognitivo basado en inteligencia artificial. Esta plataforma combina principios de las ciencias cognitivas con tecnología moderna para ofrecerte una experiencia de aprendizaje personalizada y efectiva.
 
